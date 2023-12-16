@@ -1,0 +1,10 @@
+.left-pane {
+    flex: 1;
+    background-color: #f2f2f2;
+}
+  
+.right-pane {
+    flex: 1;
+    background-color: #ffffff;
+}
+
